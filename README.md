@@ -1,9 +1,9 @@
 # Siber_Vatan_Eğitim 
 
-Etherscan : https://etherscan.io/
-Metamask : https://metamask.io/
-Remix İDE : https://remix.ethereum.org/
-Musluk : https://goerli-faucet.pk910.de#/details/5fea23e4-a0f7-4b8b-9c55-3aac36ace2d7
+* Etherscan : https://etherscan.io/
+* Metamask : https://metamask.io/
+* Remix İDE : https://remix.ethereum.org/
+* Musluk : https://goerli-faucet.pk910.de#/details/5fea23e4-a0f7-4b8b-9c55-3aac36ace2d7
 
 
 
