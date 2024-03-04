@@ -1,1 +1,1 @@
-# Siber_Vatan_E-itim
+# Siber_Vatan_Eğitim
